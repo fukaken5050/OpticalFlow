@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a6d0509bac01dd4ea855dd629b7dd30, type: 3}
+  m_Name: Explosion01-light-nofire_5x5_flowparam
+  m_EditorClassIdentifier: 
+  flowStrength: 13.500954
+  textureMain: {fileID: 2800000, guid: 34faef91b98f5bb4b80624e22aabe306, type: 3}
+  textureFlow: {fileID: 2800000, guid: 50259d53cb679c64a9ffda469ed5e858, type: 3}
+  count: 25
+  tile: {x: 5, y: 5}
